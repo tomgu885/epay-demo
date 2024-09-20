@@ -66,6 +66,8 @@ class DepositController extends Controller
               'txid' => $txid,
               'paid_at' => $data['paid_at'],
               'amount' => $data['amount'],
+              'to_address' => $data['to_address'],
+              'from_address' => $data['from_address'],
               'user_id' => $user->id,
 
           ]);
