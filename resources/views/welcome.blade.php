@@ -107,7 +107,7 @@
 
                                     <p class="mt-4 text-sm/relaxed">
                                         测试环境不用真实USDT，测试环境用 Nile 测试网， 到 <a href="https://nileex.io/join/getJoinPage">Nileex 波场测试环境</a> 获取 测试用 TRX，用于转帐。
-                                        把 钱包地址 发给 Jack， 他会给你 测试用的 usdt
+                                        把 钱包地址 发给 Jack， 他会给你 测试用的 usdt，然后就可以 和 真实网络一样的存款了。
                                     </p>
                                 </div>
                             </div><!-- end -->
