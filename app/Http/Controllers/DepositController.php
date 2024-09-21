@@ -23,7 +23,7 @@ class DepositController extends Controller
         $resp = epay_post('/bind_address',[
             'username'  => $username,
         ]);
-
+        Log::info('$resp', $resp);
         Log::info('address:'.$resp['data']['address']);
         $user->usdt_address = $resp['data']['address'];
         $user->save();
